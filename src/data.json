@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "icon":"AssuredWorkloadIcon",
+        "title":"AR 20",
+        "content":"All semisters subjects pdf's of AR-20 regulation will be available here",
+        "nav":"./Products"
+        
+    },
+    {
+        "id":2,
+        "title":"AR 19",
+        "content":"All semisters subjects pdf's of AR-19 regulation will be available here",
+        "nav":"./Home"
+        
+    },
+    {
+        "id":3,
+        "title":"AR 17",
+        "content":"All semisters subjects pdf's of AR-17 regulation will be available here",
+        "nav":"./About"
+        
+    }
+]
